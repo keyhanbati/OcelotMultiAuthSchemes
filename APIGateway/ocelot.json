@@ -14,7 +14,7 @@
         "AllowedScopes": []
       },
       "UpstreamPathTemplate": "/apigateway/categories",
-      "UpstreamHttpMethod": [ "Get" ]
+      "UpstreamHttpMethod": [ "Get" , "Post" ]
     },
     {
       "DownstreamPathTemplate": "/products",
